@@ -22,4 +22,3 @@ let add m n f x = m f (n f x)
 let multiply m n f x = m (n f) x
 
 let result = add one (multiply two two) ((+) 1) 0
-

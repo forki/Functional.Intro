@@ -2,7 +2,7 @@
 - description : Brief history of functional programming
 - author : Max Grebeniuk
 - theme : night
-- transition : default
+- transition : zoom
 
 ***
 
